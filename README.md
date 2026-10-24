@@ -105,7 +105,7 @@ Takes a second near the hint
 Makes the key from it with SHA-256
 Decrypts the ciphertext
 Checks the padding and the text
-If it fails, goes to the next second(gives gibberish/random key)
+If it fails(gives gibberish/random key), goes to the next second
 
 The script found the key at timestamp 1790147508, which is 0 seconds away from the hint. The decrypted text was the flag.
 
