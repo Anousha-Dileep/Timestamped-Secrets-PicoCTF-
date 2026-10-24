@@ -115,8 +115,12 @@ academy{sa3S_sEc9t_65bbf411}
 
 # Concepts Used:
 
-Unix timestamps
-SHA-256 hashing
-AES-128 in ECB mode
-PKCS#7 padding
-Brute force on a very small key space
+-->Unix timestamps
+
+-->SHA-256 hashing
+
+-->AES-128 in ECB mode
+
+-->PKCS#7 padding
+
+-->Brute force on a very small key space
